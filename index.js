@@ -17,6 +17,6 @@ function dec(n){
   return n-1
 }
 function makeInt(n){
-  parceInt( n ,10)
-  return n
+  parceInt(n)
+ 
 }
